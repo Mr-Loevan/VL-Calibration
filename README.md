@@ -1,10 +1,12 @@
 <p align="center">
-  <h2 align="center">VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning
+  <h2 align="center">[ACL 2026] VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning
 </h2>
   <p align="center">
     </br>
         <a href="https://github.com/Mr-Loevan/VL-Calibration">
         <img src='https://img.shields.io/badge/Code-GitHub-green' alt='Code'></a>
+        <a href="https://arxiv.org/abs/2604.09529">
+        <img src='https://img.shields.io/badge/Paper-Arxiv-red' alt='Paper'></a>
         <a href="https://modelscope.cn/datasets/xiaowenyi/VL-Calibration-12K">
         <img src='https://img.shields.io/badge/Dataset-ModelScope-blue' alt='Dataset'></a>
         <a href="https://modelscope.cn/collections/xiaowenyi/VL-Calibration">
